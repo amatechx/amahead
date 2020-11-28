@@ -9,7 +9,7 @@ This script contains popular features
     other
 -------------------------------------------------------------------------
     apt update && apt install git -y
-    git clone https://github.com/remo7777/T-Header.git
+    git clone https://github.com/amatechx/amahead.git
     cd T-Header/
     ls
     bash t-header.sh
