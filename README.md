@@ -10,8 +10,8 @@ This script contains popular features
 -------------------------------------------------------------------------
     apt update && apt install git -y
     git clone https://github.com/amatechx/amahead.git
-    cd T-Header/
+    cd amahead
     ls
-    bash t-header.sh
+    bash amahead.sh
     after complete all processing just 
     --open new session------------------------------------------------------
